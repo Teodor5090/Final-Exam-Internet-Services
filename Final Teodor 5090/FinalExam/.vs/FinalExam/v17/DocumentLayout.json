@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531182241_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240531182241_Second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:data\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:repositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531180004_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240531180004_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:services\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|c:\\users\\student\\desktop\\final teodor 5090\\finalexam\\finalexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C4EFEA9-7A92-455A-9D51-3464CF5EF435}|FinalExam.csproj|solutionrelative:finalexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7639C09B-62E5-4BE0-BC1E-9F2507CA4397}|..\\UnitTests\\UnitTests.csproj|c:\\users\\student\\desktop\\final teodor 5090\\unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240531182241_Second.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531182241_Second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531182241_Second.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531182241_Second.cs",
+              "RelativeToolTip": "Migrations\\20240531182241_Second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:22:41.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:06:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Repositories\\CarRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:06:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\ICarRepository.cs",
+              "RelativeToolTip": "Repositories\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:06:37.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:06:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\IClientService.cs",
+              "RelativeToolTip": "Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:53:15.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\ClientService.cs",
+              "RelativeToolTip": "Services\\ClientService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:53:26.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Data\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Data\\Models\\Car.cs",
+              "RelativeToolTip": "Data\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:03.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Data\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Data\\Models\\Client.cs",
+              "RelativeToolTip": "Data\\Models\\Client.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:43:10.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA9wDYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:01:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:18:11.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\AutoMapperProfile.cs",
+              "RelativeToolTip": "AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:49:09.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\DTOs\\CarDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\CarDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\DTOs\\CarDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\CarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:46:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\DTOs\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "Services\\DTOs\\ClientDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\DTOs\\ClientDTO.cs",
+              "RelativeToolTip": "Services\\DTOs\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:46:45.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240531180004_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531180004_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531180004_Initial.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Migrations\\20240531180004_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240531180004_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:00:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T18:01:18.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T17:18:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\CarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:53:06.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\Services\\ICarService.cs",
+              "RelativeToolTip": "Services\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:53:00.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FinalExam",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\FinalExam.csproj",
+              "RelativeDocumentMoniker": "FinalExam.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\FinalExam.csproj",
+              "RelativeToolTip": "FinalExam.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T16:40:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\FinalExam\\CarDbContext.cs",
+              "RelativeToolTip": "CarDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:55:46.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Final Teodor 5090\\UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:40:50.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
